@@ -9,5 +9,5 @@ I was given this programming project by a client from freelancing marketplace. T
 
 Here are screenshots of the game - 
 
-[1](/Screenshots/1.jpeg)
-[2](/Screenshots/2.jpeg)
+[1](/Screenshots/1.jpg)
+[2](/Screenshots/2.jpg)
