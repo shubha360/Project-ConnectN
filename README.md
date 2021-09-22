@@ -9,5 +9,7 @@ I was given this programming project by a client from freelancing marketplace. T
 
 Here are screenshots of the game - 
 
-[1](/Screenshots/1.jpg)
-[2](/Screenshots/2.jpg)
+(Player 2 won by matching the diagonals. The winning number is set to 5.)
+
+![1](/Screenshots/1.jpg)
+![2](/Screenshots/2.jpg)
